@@ -415,7 +415,7 @@ export default function FitnessLanding() {
                 </div>
                 <div>
                   <h3 className="font-bold text-lg mb-1">Instagram</h3>
-                  <a href="#" className="text-emerald-400 hover:text-emerald-300">@youssef.fitness</a>
+                  <a href="https://instagram.com/youssef.fitness" target="_blank" rel="noopener noreferrer" className="text-emerald-400 hover:text-emerald-300">@youssef.fitness</a>
                 </div>
               </div>
 
